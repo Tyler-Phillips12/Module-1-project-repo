@@ -31,7 +31,7 @@ h1 {
 img {
   height: auto;
   width: 400px;
-  margin-left: 530px;
+  margin-left: 400px;
   border-style: solid;
   border-color: red;
   border-width: 5px;
@@ -51,6 +51,6 @@ ul {
 
 form {
   margin-top: 20px;
-  margin-left: 915px;
+  margin-left: 720px;
   font-weight: bolder;
 }
