@@ -21,6 +21,7 @@ body {
   border-style: solid;
   border-bottom-color: red;
   border-bottom-width: 100px;
+  width: 100%;
 }
 
 h1 {
@@ -30,7 +31,7 @@ h1 {
 img {
   height: auto;
   width: 400px;
-  margin-left: 350px;
+  margin-left: 530px;
   border-style: solid;
   border-color: red;
   border-width: 5px;
@@ -50,6 +51,6 @@ ul {
 
 form {
   margin-top: 20px;
-  margin-left: 600px;
+  margin-left: 915px;
   font-weight: bolder;
 }
