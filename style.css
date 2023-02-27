@@ -26,10 +26,10 @@ body {
 
 h1 {
   text-align: center;
-  background-color: red;
+  background-color: purple;
   border-style: groove;
-  border-color: black;
-  border-radius: 60%;
+  border-color: green;
+  
 }
 
 h2 {
@@ -39,11 +39,11 @@ h2 {
 
 ul {
   font-size: x-large;
-  background-color: red;
+  background-color: green;
   display: flex;
   flex-direction: column;
   align-items: center;
-  border-radius: 53%;
+  
 }
   
 
@@ -51,21 +51,21 @@ form {
   display: block;
   flex-direction: column;
   align-items: center;
-  box-shadow: 6px 10px 7px 10px red;
-  background-color: red;
-  box-shadow: 6px 10px 7px 10px black;
+  box-shadow: 6px 10px 7px 10px purple;
+  background-color: green;
+  box-shadow: 6px 10px 7px 10px purple;
 }
 
 div {
   justify-content: space-evenly;
   flex-wrap: wrap;
-  box-shadow: 4px 8px 3px 9px red;
+  box-shadow: 4px 8px 3px 9px purple;
   box-sizing: border-box;
   display: flex;
   flex-direction: row;
   align-items: center;
   padding: 5px;
-  background-color: red;
+  background-color: green;
   border-style: groove;
   border-color: black;
   border-width: 7px;
@@ -75,10 +75,9 @@ div {
 img {
   padding: 2px;
   box-sizing: border-box;
-  box-shadow: 6px 10px 7px 5px black;
+  box-shadow: 6px 10px 7px 5px purple;
   border-style: groove;
   border-color: black;
-  border-radius: 50%;
   border-width: 7px;
 }
 
@@ -89,7 +88,7 @@ footer {
 }
 
 :hover {
-  background-color: skyblue;
+  background-color: green;
   cursor: grab;
 }
 
